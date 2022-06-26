@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3\\exer3.csproj": {}
+    "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3&exer4\\exer3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3\\exer3.csproj": {
+    "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3&exer4\\exer3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3\\exer3.csproj",
+        "projectUniqueName": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3&exer4\\exer3.csproj",
         "projectName": "exer3",
-        "projectPath": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3\\exer3.csproj",
+        "projectPath": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3&exer4\\exer3.csproj",
         "packagesPath": "C:\\Users\\Zeld\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3\\obj\\",
+        "outputPath": "C:\\Users\\Zeld\\workspace\\Gft-treino6\\exer3&exer4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
